@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#50C2C9</color>
+    <color name="colorSecondary">#55BBAF</color>
+    <color name="gray">#f7f7f7</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="statusBar">#8FE1D7</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="tgray">#00f7f7f7</color>
+    <color name="twhite">#00FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add">add</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="already_have_an_accoout">Already Have An Accoout ?</string>
+    <string name="app_name">Note Taking App</string>
+    <string name="cancel">Batal</string>
+    <string name="change">Ubah</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="date">Tanggal</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="description">Description</string>
+    <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the .</string>
+    <string name="email">Email</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="gambar">gambar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul">Get things done with TODO</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="message_ok">OK</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="no">Tidak</string>
+    <string name="note_does_not_exist">NOTE DOES NOT EXIST</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="save">Simpan</string>
+    <string name="submit">Submit</string>
+    <string name="title">Judul</string>
+    <string name="update">Update</string>
+    <string name="username">Username</string>
+    <string name="yes">Ya</string>
+    <style name="Theme.NoteTakingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

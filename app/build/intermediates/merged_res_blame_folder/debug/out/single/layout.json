@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/fragment_login.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/fragment_note.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/fragment_note.xml"
+    },
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/custom_dialog_note.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/custom_dialog_note.xml"
+    },
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/item_row_list.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/item_row_list.xml"
+    },
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/fragment_register.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.fajar.notetakingapp-mergeDebugResources-4:/layout/activity_splash_screen.xml",
+        "source": "com.fajar.notetakingapp-main-7:/layout/activity_splash_screen.xml"
+    }
+]
